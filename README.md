@@ -1,5 +1,6 @@
-# Gojek Apps UI Clone to be IndoJek Apps by Rangga Saputra
+# Clone App Gojek UI by Zihun
 
-This application is a Gojek clone using Flutter.
+Link figma : https://www.figma.com/file/NrFFS9bDBw2H2MzkgK5oob/Gojek-(Merchant-Payment)-(Community)?type=design&node-id=0%3A1&mode=design&t=fCOjgUHQMYrgZEmK-1
 
 ## UI:
+![IndoFlutter Thumbnails](https://github.com/zihunn/clone-gojek-ui/blob/main/assets/images/Mockups.png)
